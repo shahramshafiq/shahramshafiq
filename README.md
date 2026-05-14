@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science undergraduate currently focused on building efficient systems and implementing core data structures from scratch. My work revolves around algorithm design and logical problem solving with strong emphasis on correctness and optimization. I’m actively exploring Artificial Intelligence concepts and applying statistical reasoning to computational problems. Skilled in C++ and Python, I prefer low-level implementation to deeply understand system behavior. Apart from that, I am really curious about diving deep in AI, ML and cloud computing.<br>
+I’m a Computer Science undergraduate currently focused on building efficient systems and implementing efficient data structures. My work revolves around algorithm design and logical problem solving with strong emphasis on correctness and optimization. I’m actively exploring Artificial Intelligence concepts and applying statistical reasoning to computational problems. Skilled in C++ and Python, I prefer low-level implementation to deeply understand system behavior. Apart from that, I am really curious about diving deep in AI, ML and cloud computing.<br>
 
 
 ## 🌐 Socials:
