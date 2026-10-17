@@ -1,18 +1,49 @@
-# 💫 About Me:
-I’m a Computer Science undergraduate currently focused on building efficient systems and implementing efficient data structures. My work revolves around algorithm design and logical problem solving with strong emphasis on correctness and optimization. I’m actively exploring Artificial Intelligence concepts and applying statistical reasoning to computational problems. Skilled in C++ and Python, I prefer low-level implementation to deeply understand system behavior. Apart from that, I am really curious about diving deep in AI, ML and cloud computing.<br>
+<div align="center">
 
+# Shahram Shafiq
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shahramshafiq/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahramshafiqgoraya4363@gmail.com) 
+**Junior AI Engineer** | LLM applications, RAG, agents and voice AI
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahramshafiq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahramshafiq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahramshafiq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Computer Science student at FAST NUCES Islamabad. I build AI systems end to end: the models, the backends, the evaluation and the interface around them.
 
----
-[![](https://visitcount.itsvg.in/api?id=shahramshafiq&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-the--shahram--file-111827?style=flat-square&logo=vercel&logoColor=white)](https://the-shahram-file.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahramshafiq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahramshafiq/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shahramshafiqgoraya4363@gmail.com)
+[![dev.to](https://img.shields.io/badge/dev.to-shahramshafiq-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/shahramshafiq)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+## About
+
+- Third-year BS Computer Science student at FAST NUCES Islamabad.
+- Focus: LLM applications with tool calling, retrieval-augmented generation, multi-agent systems and real-time voice pipelines.
+- Hands-on with computer vision and automation: OpenCV, MediaPipe, OCR and Playwright.
+- Fundamentals built from scratch: data structures, search and optimization algorithms in C++, Java, Python and x86 assembly.
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [DevMind](https://github.com/shahramshafiq/devmind) | Multi-agent pipeline that turns a GitHub issue into a tested pull request. [Live demo](https://devmind-theta.vercel.app) | Python, FastAPI, LangGraph, React, ChromaDB |
+| [AirCursor](https://github.com/shahramshafiq/aircursor) | Touch-free mouse control from hand gestures through any webcam | Python, MediaPipe, OpenCV |
+| [Community Health Worker Report Agent](https://github.com/shahramshafiq/chw-report-agent) | Structures field reports and flags urgency. [Live demo](https://chw-report-agent.streamlit.app) | Python, Streamlit, Groq |
+| [INNsight Hotel Management](https://github.com/shahramshafiq/innsight-hotel-management) | JavaFX desktop app with a Botpress chatbot that books rooms | Java, JavaFX, SQLite |
+| [CityMind](https://github.com/shahramshafiq/citymind-urban-intelligence) | City emergency simulator combining CSP, genetic algorithms, simulated annealing, A* and KNN | Python, Tkinter |
+| [Super Mario in Assembly](https://github.com/shahramshafiq/super-mario-assembly) | Two-level platformer with enemies, power-ups and audio | x86 MASM, Irvine32 |
+
+More work lives in the [repositories tab](https://github.com/shahramshafiq?tab=repositories), including search algorithms, constraint solvers and a C++ railway system built without the STL.
+
+## Toolbox
+
+| Area | Technologies |
+|---|---|
+| Languages | Python, JavaScript, Java, C++, SQL, x86 Assembly |
+| AI and LLM | LangChain, LangGraph, RAG, MCP, NeMo Guardrails, tool calling, multi-agent systems |
+| Voice and backend | FastAPI, Flask, WebSockets, SSE, Deepgram, ElevenLabs, Docker |
+| Data | PostgreSQL, pgvector, ChromaDB, Valkey, SQLite |
+| Vision and automation | OpenCV, MediaPipe, PyTorch, EasyOCR, Playwright |
+| Tools | Git, GitHub, pytest, Postman, Streamlit |
+
+<p align="center">
+  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahramshafiq&layout=compact&hide=html,css,jupyter%20notebook&theme=transparent&title_color=0969da&text_color=6e7681&hide_border=true" />
+</p>
