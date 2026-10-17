@@ -49,8 +49,8 @@ Listed in the order I built them, oldest first.
 | When | Project | What it does | Stack |
 |---|---|---|---|
 | 2025 | [Galaxy Wars](https://github.com/shahramshafiq/galaxy-wars-game) | Arcade space shooter with three levels, power-ups and a boss | C++, SFML |
-| 2025 | [Railway Management System](https://github.com/shahramshafiq/railway-management-system) | Command-line railway system with AVL trees, graphs and hash tables written from scratch | C++ |
-| 2026 | [Super Mario in Assembly](https://github.com/shahramshafiq/super-mario-assembly) | Two-level platformer with enemies, power-ups and audio | x86 MASM, Irvine32 |
+| 2026 | [Railway Management System](https://github.com/shahramshafiq/railway-management-system) | Command-line railway system with AVL trees, graphs and hash tables written from scratch | C++ |
+| 2025 | [Super Mario in Assembly](https://github.com/shahramshafiq/super-mario-assembly) | Two-level platformer with enemies, power-ups and audio | x86 MASM, Irvine32 |
 | 2026 | [INNsight Hotel Management](https://github.com/shahramshafiq/innsight-hotel-management) | JavaFX desktop app with a Botpress chatbot that books rooms | Java, JavaFX, SQLite |
 | 2026 | [Pathfinder Visualizer](https://github.com/shahramshafiq/pathfinder-search-visualizer) | BFS, DFS, UCS and A* on an editable grid | Python, Tkinter |
 | 2026 | [Course Scheduling GA](https://github.com/shahramshafiq/course-scheduling-genetic-algorithm) | Genetic algorithm that evolves weekly course schedules | Python, Tkinter |
