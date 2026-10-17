@@ -25,38 +25,6 @@ I work as a Junior AI Engineer and study Computer Science at FAST NUCES. I like 
 
 Currently exploring system design for MCP and agent-to-agent (A2A) architectures.
 
-## Projects
-
-Listed in the order I built them, oldest first.
-
-### AI engineering
-
-| When | Project | What it does | Stack |
-|---|---|---|---|
-| Jun 2026 | [Community Health Worker Report Agent](https://github.com/shahramshafiq/chw-report-agent) | Structures field reports and flags urgency. [Live demo](https://chw-report-agent.streamlit.app) | Python, Streamlit, Groq |
-| Jun 2026 | [DevMind](https://github.com/shahramshafiq/devmind) | Multi-agent pipeline that turns a GitHub issue into a tested pull request. [Live demo](https://devmind-theta.vercel.app) | Python, FastAPI, LangGraph, React, ChromaDB |
-| Jun 2026 | [3D Reconstruction Portfolio](https://github.com/shahramshafiq/preservemy.world-internship) | Point cloud and mesh pipeline for heritage sites, with a Flask API and ML notebooks. [Site](https://shahramshafiq.github.io/preservemy.world-internship/) | Python, OpenCV, Flask |
-| Jul 2026 | [AirCursor](https://github.com/shahramshafiq/aircursor) | Touch-free mouse control from hand gestures through any webcam | Python, MediaPipe, OpenCV |
-| Aug 2026 | [Event Processing API](https://github.com/shahramshafiq/event-processing-fastapi) | Extracts PDF text in background jobs with live SSE progress and Valkey caching | Python, FastAPI, Valkey |
-| Sep 2026 | [DevMate LLM API](https://github.com/shahramshafiq/devmate-llm-api) | LLM assistant backend with tool calling, Valkey memory and NeMo Guardrails checks | Python, FastAPI, OpenAI |
-| Sep 2026 | [SEC Filings RAG](https://github.com/shahramshafiq/sec-filings-rag-qa) | Corrective RAG over SEC 10-K filings with cited answers and abstention | Python, FastAPI, LangGraph, pgvector |
-| Sep 2026 | [Calendar MCP Assistant](https://github.com/shahramshafiq/google-calendar-mcp-assistant) | Chat assistant that manages tasks and Google Calendar through an MCP server | Python, FastAPI, MCP, OpenAI |
-| Sep 2026 | [Order Management MCP](https://github.com/shahramshafiq/order-management-mcp-server) | MCP server for inventory and orders with a guardrailed OpenAI chat assistant | Python, MCP, NeMo Guardrails |
-| Oct 2026 | [Streaming Voice Agent](https://github.com/shahramshafiq/streaming-voice-agent) | Low-latency voice agent with barge-in, built on streaming STT, LLM and TTS | Python, WebSockets, Deepgram, ElevenLabs |
-
-### Computer science foundations
-
-| When | Project | What it does | Stack |
-|---|---|---|---|
-| 2025 | [Galaxy Wars](https://github.com/shahramshafiq/galaxy-wars-game) | Arcade space shooter with three levels, power-ups and a boss | C++, SFML |
-| 2026 | [Railway Management System](https://github.com/shahramshafiq/railway-management-system) | Command-line railway system with AVL trees, graphs and hash tables written from scratch | C++ |
-| 2025 | [Super Mario in Assembly](https://github.com/shahramshafiq/super-mario-assembly) | Two-level platformer with enemies, power-ups and audio | x86 MASM, Irvine32 |
-| 2026 | [INNsight Hotel Management](https://github.com/shahramshafiq/innsight-hotel-management) | JavaFX desktop app with a Botpress chatbot that books rooms | Java, JavaFX, SQLite |
-| 2026 | [Pathfinder Visualizer](https://github.com/shahramshafiq/pathfinder-search-visualizer) | BFS, DFS, UCS and A* on an editable grid | Python, Tkinter |
-| 2026 | [Course Scheduling GA](https://github.com/shahramshafiq/course-scheduling-genetic-algorithm) | Genetic algorithm that evolves weekly course schedules | Python, Tkinter |
-| 2026 | [Course Timetabling CSP](https://github.com/shahramshafiq/course-timetabling-csp-solver) | Timetabling as a CSP with backtracking, MAC and min-conflicts | Python, Tkinter |
-| 2026 | [CityMind](https://github.com/shahramshafiq/citymind-urban-intelligence) | City emergency simulator combining CSP, genetic algorithms, simulated annealing, A* and KNN | Python, Tkinter |
-
 ## Toolbox
 
 | Area | Technologies |
