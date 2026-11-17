@@ -1,8 +1,8 @@
 <div align="center">
 
-# Shahram Shafiq
+<img src="assets/banner.svg" alt="Case file: Shahram Shafiq, AI Engineer" width="100%">
 
-**Junior AI Engineer** | LLM applications, RAG, agents and voice AI
+**AI Engineer** | LLM applications, RAG, agents and voice AI
 
 Computer Science student at FAST NUCES Islamabad. I build AI systems end to end: the models, the backends, the evaluation and the interface around them.
 
@@ -14,7 +14,11 @@ Computer Science student at FAST NUCES Islamabad. I build AI systems end to end:
 
 ## About
 
-I completed a three-month Junior AI Engineer internship (Aug to Nov 2026) and study Computer Science at FAST NUCES. I like LLM systems that are measured, guarded and built to keep running, not just demos. Here is what I have built and learned:
+I like LLM systems that are measured, guarded and built to keep running, not just demos. The evidence is pinned to the board below. Follow the red string.
+
+<div align="center">
+<img src="assets/board.svg" alt="Evidence board: voice agents, tool calling, RAG, MCP with guardrails, agents, vision" width="100%">
+</div>
 
 - **Real-time voice agents:** streaming speech-to-text, LLM and text-to-speech pipelines with barge-in, then the same booking assistant rebuilt on the Gemini Live speech-to-speech API ([gemini-live-booking-assistant](https://github.com/shahramshafiq/gemini-live-booking-assistant)) and as a phone line through Twilio ([twilio-voice-booking-assistant](https://github.com/shahramshafiq/twilio-voice-booking-assistant)). I tuned latency stage by stage and measured it.
 - **Tool calling that changes real data:** assistants that read and write Google Calendar, with a spoken confirmation before any change, idempotent writes and guardrails written in code.
@@ -35,6 +39,6 @@ I completed a three-month Junior AI Engineer internship (Aug to Nov 2026) and st
 | Vision and automation | OpenCV, MediaPipe, PyTorch, EasyOCR, Playwright |
 | Tools | Git, GitHub, pytest, Postman, Streamlit |
 
-<p align="center">
-  <img height="150" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahramshafiq&layout=compact&hide=html,css,jupyter%20notebook&theme=transparent&title_color=0969da&text_color=6e7681&hide_border=true" />
-</p>
+<div align="center">
+<img src="assets/languages.svg" alt="Language log: Python 71.7%, JavaScript 8.8%, C++ 8.1%, Java 5.9%, Assembly 5.5%" width="100%">
+</div>
